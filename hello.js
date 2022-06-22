@@ -9,7 +9,3 @@ const sayHello10Times = () => {
     sayHello();
   }
 };
-
-const mesKouilles = () => {
-  return "Issou.js";
-};
