@@ -15,3 +15,8 @@ const sayHello100Times = () => {
     sayHello();
   }
 };
+
+const user = {
+  name: "David",
+  age: 29
+};
