@@ -9,3 +9,9 @@ const sayHello10Times = () => {
     sayHello();
   }
 };
+
+const sayHello100Times = () => {
+  for (let i = 0; i < 100; i++) {
+    sayHello();
+  }
+};
