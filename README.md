@@ -5,5 +5,3 @@
 - Josselin
 
 - André
-
-- Cyril
